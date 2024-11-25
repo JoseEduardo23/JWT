@@ -1,0 +1,76 @@
+{
+  "transport": [
+    {
+      "id": "6d07",
+      "nomb_ruta": "Ruta Mariscal Sucre",
+      "estado_ruta": "active",
+      "horario_salida": "7:00",
+      "horario_llegada": "8:30",
+      "puntos_intermedios": [
+        "Estacion la Y",
+        "Estacion el lsbrador",
+        "Estacion el Ejido",
+        "Estacion Chimbacalle"
+      ],
+      "duracion_aproximada": 90
+    },
+    {
+      "id": "e76a",
+      "nomb_ruta": "Ruta Eugenio Espejo",
+      "estado_ruta": "active",
+      "horario_salida": "7:00",
+      "horario_llegada": "8:30",
+      "puntos_intermedios": [
+        "Estacion la Y",
+        "Estacion el lsbrador",
+        "Estacion el Ejido",
+        "Estacion Chimbacalle"
+      ],
+      "duracion_aproximada": 90
+    },
+    {
+      "id": "637e4692-7333-4516-b242-db7f60f0964c",
+      "nomb_ruta": "Ruta Amazonas",
+      "estado_ruta": "active",
+      "horario_salida": "7:00",
+      "horario_llegada": "8:30",
+      "puntos_intermedios": [
+        "Estacion la Y",
+        "Estacion el lsbrador",
+        "Estacion el Ejido",
+        "Estacion Chimbacalle"
+      ],
+      "duracion_aproximada": 90
+    },
+    {
+      "id": "7b269aaa-835c-4039-89a0-2555da63fbfb",
+      "nomb_ruta": "Ruta Mariscal Sucre",
+      "estado_ruta": "active",
+      "horario_salida": "7:00",
+      "horario_llegada": "8:30",
+      "puntos_intermedios": [
+        "Estacion la Y",
+        "Estacion el lsbrador",
+        "Estacion el Ejido",
+        "Estacion Chimbacalle"
+      ],
+      "duracion_aproximada": 90
+    }
+  ],
+  "users": [
+    {
+      "id": "56bad0c8-00c7-48d3-985d-bf507deab399",
+      "password": "$2b$10$BfgknfGNfInnCpgEZS7o8eznOrXWX5Z3Q7UBRKNpLzVSJrMUT7YO.",
+      "name": "Jose",
+      "username": "JoseEduardo",
+      "email": "jose@gmail.com"
+    },
+    {
+      "id": "0e100742-1f45-4985-8c65-9f7f9cde37ad",
+      "password": "$2b$10$H5TGm40AHU/dBjIC2i0G4u9GKd5tyMqY2Lsbg/X/WBDRUqcXQkxZ2",
+      "name": "Jose2",
+      "username": "JoseEduardo",
+      "email": "jose@gmail.com"
+    }
+  ]
+}
